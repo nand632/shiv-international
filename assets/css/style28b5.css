@@ -5334,6 +5334,15 @@ footer a {
   min-height: 40px;
 }
 
+.title-favicon1 {
+  background-image: url(../imgs/template/icons/Favicon.png);
+  background-repeat: no-repeat;
+  background-position: left top 4px;
+  padding-left: 110px;
+  min-height: 100px;
+}
+
+
 .box-author {
   display: flex;
   align-items: center;
@@ -6261,6 +6270,12 @@ input:checked + .slider:before {
   background-image: url(../imgs/page/homepage3/favicon-w.png);
   background-position: left 4px;
   padding-left: 60px;
+  background-repeat: no-repeat;
+}
+.title-favicon-3 {
+  background-image: url(../imgs/template/icons/Favicon-2.png);
+  background-position: left 4px;
+  padding-left: 110px;
   background-repeat: no-repeat;
 }
 
